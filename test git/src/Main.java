@@ -1,5 +1,9 @@
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("hello people test git");
+        int a = new Scanner(System.in).nextInt();
+        int n = new Scanner(System.in).nextInt();
+
     }
 }
